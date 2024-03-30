@@ -1,0 +1,1 @@
+“Hello, I am Karishma Khoja. I work in informatics right now and I am taking this course to build a skillset to transition into data engineering roles.”
