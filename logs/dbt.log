@@ -1,0 +1,32 @@
+[0m15:37:38.159587 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2e4f3ae230>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2e4f988700>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2e4f9886a0>]}
+
+
+============================== 15:37:38.163457 | d78672a0-8f9c-4b2d-840b-8c89e24c7247 ==============================
+[0m15:37:38.163457 [info ] [MainThread]: Running with dbt=1.7.11
+[0m15:37:38.164795 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/home/vscode/.dbt', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'warn_error': 'None', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'invocation_command': 'dbt init', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m15:37:38.166815 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse dict {'dir': PosixPath('/home/vscode/.dbt')}
+[0m15:37:38.167671 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m15:43:54.026292 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1187070ee0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1185498730>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f11854986d0>]}
+
+
+============================== 15:43:54.029057 | 171cff04-5607-4736-ab44-41c481bfb2f3 ==============================
+[0m15:43:54.029057 [info ] [MainThread]: Running with dbt=1.7.11
+[0m15:43:54.030384 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': '/home/vscode/.dbt', 'log_path': 'logs', 'debug': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'invocation_command': 'dbt init demo-dbt-project', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m15:44:56.433173 [debug] [MainThread]: Starter project path: /home/vscode/.local/lib/python3.10/site-packages/dbt/include/starter_project
+[0m15:44:56.438447 [info ] [MainThread]: 
+Your new dbt project "demo_dbt_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m15:44:56.439180 [info ] [MainThread]: Setting up your profile.
