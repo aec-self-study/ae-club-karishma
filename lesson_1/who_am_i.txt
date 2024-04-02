@@ -1,1 +1,1 @@
-My name is Karishma Khoja. I work as an informatics manager for a health insurance company. I hope to learn the necessary skills to move into a data engineering role next.
+“Hello, I am Karishma Khoja. I work in informatics right now and I am taking this course to build a skillset to transition into data engineering roles.”
